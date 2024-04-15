@@ -53,10 +53,9 @@ The task involves meticulous data preprocessing, strategic feature engineering, 
 
 **Interesting facts**
 
-* Most used cars are less than 10 years old (>2015)
-* The largest number of vehicles are white automatic sedans
-* There are very few diesel and electric cars in the used car dealerships
-* California and Florida sell the most used cars
-* Ford, Cheverlot and Toyota are the most popular manufacturers
-
+* The majority of used cars are younger than 10 years old, predominantly from years after 2015.
+* The most common type of vehicle found is white automatic sedans.
+* Diesel and electric cars are notably scarce in used car dealerships.
+* California and Florida emerge as the leading states in terms of used car sales.
+* Ford, Chevrolet, and Toyota stand out as the most favored manufacturers among buyers.
 ![Interesting facts Image](https://github.com/AtulTrikha/CarPricing/blob/main/images/vehicle_data_plot.png "Interesting facts")
